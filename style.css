@@ -9,6 +9,12 @@ h2{
 .heading-color{
 color:#FFAC59
 }
+
+.header-left-border{
+    border-left: 4px solid orangered;
+    
+}
+
 section{
     display:flex;
     margin-bottom: 100px;
@@ -21,7 +27,7 @@ p{
     text-align: justify;
 }
 .half-width img{
-    width: 80%;
+    width: 60%;
     margin-left: 10px;
 }
 
@@ -33,8 +39,21 @@ p{
     color: white;
     font-weight: 500;
 }
+
 .branding-develop{
     background-image: url(shapes/shape-1.png) ;
     background-repeat: no-repeat;
     background-position: left;
 }
+.middle{
+    text-align: center;
+}
+.mission22-flex{
+    display: flex;
+
+}
+.mission22{
+    padding: 35px;
+    
+}
+
