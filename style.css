@@ -74,9 +74,23 @@ div .box-bg3 {
 }
 
 .mission22-flex p{
-    padding: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 .mission22-flex h3{
     padding-left: 50px;
+    }
+    .mission22-flex img{
+        width: 60px;
+        padding-left: 50px;
+        padding-top: 20px;
+    }
+
+.footer-bg{
+    font-style: italic;
+    background: black;
+    color: white;
+    padding: 10px;
+    
 }
