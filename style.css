@@ -51,9 +51,32 @@ p{
 .mission22-flex{
     display: flex;
 
+
 }
 .mission22{
     padding: 35px;
     
 }
 
+
+div .box-bg {
+    background-color: burlywood;
+    margin: 50px;
+}
+div .box-bg2 {
+    background-color: cadetblue;
+    margin: 50px;
+}
+
+div .box-bg3 {
+    background-color: hotpink;
+    margin: 50px;
+}
+
+.mission22-flex p{
+    padding: 50px;
+}
+
+.mission22-flex h3{
+    padding-left: 50px;
+}
